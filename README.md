@@ -12,9 +12,11 @@ ELEKTRONİK EKİPMAN
 - Breadboard
 - Jumper Kablo
 
-![Bağlantı Şeması]()
+![Bağlantı Şeması](https://github.com/Mewaa/Mecanum-Robot/blob/master/images/baglanti%20semasi.png)
 
 - Telefon uygulaması MIT App Inventor ile hazırlanmıştır.
 
 
-![Uygulama]()
+![Uygulama](https://github.com/Mewaa/Mecanum-Robot/blob/master/images/Resim5.jpg)
+
+![Kod](https://github.com/Mewaa/Mecanum-Robot/blob/master/images/kod.PNG)
